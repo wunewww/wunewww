@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WnPro
 - 👀 I’m interested in studying!!!!
 - 🌱 I’m currently learning National Judicial Examination，python.
-- 📫 Please reach me with email-address: new_year_2013@outlook.com
+- 📫 Please reach me with email-address: NiuZHL@outlook.com
 
 <!---
 WnPro/WnPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
