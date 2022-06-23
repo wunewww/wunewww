@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 污牛(wuniu).
 - 👀 I’m a master's student with a law major in UIBE.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Web-related knowledge.
 - 📫 Please reach me with email-address: niuzhl@outlook.com
 
 <!---
