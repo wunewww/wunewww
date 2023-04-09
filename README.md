@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 污牛(wuniu).
+- 👋 Hi, I’m wunewww.
 - 👀 I’m a master's student with a law major in UIBE.
-- 🌱 I’m currently learning Web-related knowledge.
-- 📫 Please reach me with email-address: niuzhl@outlook.com
-- ✨ I have a lovely senior schoolmate [@WinnieRLi](https://github.com/WinnieRLi).
+- 🌱 I’m currently struggling with my graduation thesis.
+- 📫 Please reach me with email-address: wuniu@riseup.net
+- ✨ Allow me to introduce you to one of my lovely senior schoolmates, @WinnieRLi.
  
 <!---
 WnPro/WnPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
