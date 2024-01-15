@@ -1,7 +1,4 @@
 - 👋 Hi, I’m wunewww.
-- 👀 I’m a master's student with a law major in UIBE.
-- 🌱 I’m currently struggling with my graduation thesis.
-- ✨ Allow me to introduce you to one of my lovely senior schoolmates, @WinnieRLi.
  
 <!---
 WnPro/WnPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
