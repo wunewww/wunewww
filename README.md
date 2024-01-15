@@ -1,7 +1,6 @@
 - 👋 Hi, I’m wunewww.
 - 👀 I’m a master's student with a law major in UIBE.
 - 🌱 I’m currently struggling with my graduation thesis.
-- 📫 Please reach me with email-address: wuniu@riseup.net
 - ✨ Allow me to introduce you to one of my lovely senior schoolmates, @WinnieRLi.
  
 <!---
